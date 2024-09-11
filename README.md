@@ -13,7 +13,7 @@
   </div>
   
   <div align="center">
-  <a href="https://github.com/diegorocha125487/Projeto-Marioh/tree/main/js"><img width="330px" height="300px" src="./imagens/startMario.gif" /></a>
+  <a href="https://github.com/diegorocha125487/Projeto-Marioh"><img width="330px" height="300px" src="./imagens/startMario.gif" /></a>
   </div>
   
   
